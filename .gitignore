@@ -1,0 +1,13 @@
+*~
+.DS_Store
+
+.module-cache/
+node_modules/
+npm-debug.log
+
+/coverage/
+
+.merlin
+.bsb.lock
+/lib/
+*.bs.js
