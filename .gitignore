@@ -1,6 +1,8 @@
 *~
 .DS_Store
 
+dist
+
 .module-cache/
 node_modules/
 npm-debug.log
